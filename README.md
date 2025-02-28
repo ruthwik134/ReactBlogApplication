@@ -3,6 +3,10 @@
 This project was developed as a dynamic blogging platform that enables content creators to write, edit, and publish blog posts using a realtime markdown editor. Built with **React** on the frontend and powered by **Appwrite** on the backend for authentication, database management, and realtime updates, this application provides a seamless experience for writers and readers alike.
 
 ---
+#**🚀 Deployment**:
+**Deployed on the vercel app.**
+🔗 Live Demo: https://react-blog-application-khaki.vercel.app
+
 
 ## ✨ Features
 
@@ -13,6 +17,8 @@ This project was developed as a dynamic blogging platform that enables content c
 - **📱 Responsive Design:** Fully optimized for both desktop and mobile devices.
 
 ---
+
+
 
 ## ⚙️ Installation
 
@@ -32,6 +38,8 @@ This project was developed as a dynamic blogging platform that enables content c
 5. Start the React Application:
    ```bash
     npm run dev
+
+
 
 🛠️ Usage
 Sign Up / Log In: Create an account or log in to access the editor.
